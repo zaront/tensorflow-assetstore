@@ -27,9 +27,9 @@ The work here is incomplete but so far I've extracted vectors from inception mod
 this demo is in the **vector** folder
 
 this one is still work in progress but many thanks to the following as I piece this solution out:
-https://github.com/Mujadded/knn-with-tensorflow/blob/master/k-nearest.py
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/nearest_neighbor.py
-https://github.com/spotify/annoy
+- https://github.com/Mujadded/knn-with-tensorflow/blob/master/k-nearest.py
+- https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/nearest_neighbor.py
+- https://github.com/spotify/annoy
 
 *inspired by this:*
 https://blog.griddynamics.com/create-image-similarity-function-with-tensorflow-for-retail/
