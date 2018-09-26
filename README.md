@@ -1,5 +1,5 @@
-# tensorflow-assetstore
-demonstrates some possibilities using DNN and the asset store
+# making it easier to find asset
+demonstrating some possibilities using DNN and the asset store
 
 ## Idea 1: categorize an asset by an image
 what if you could have your asset automaticly tagged and categorized by an image.
