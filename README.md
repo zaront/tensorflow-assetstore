@@ -4,9 +4,9 @@ demonstrating some possibilities using DNN and the asset store
 ## Idea 1: categorize an asset by an image
 what if you could have your asset automaticly tagged and categorized by an image.
 
-Starting with a mobilenet model that was trained on imagenet I retrained the last layer of the convolutional neural net on images I web scraped from your asset store using a technique called transferred learning.  This allowed me to leverage all the heavy lifting that when into recognizing real life objects and refine it to recognize the newonses that are in the 3D assets equivalents of those objects.
+Starting with a mobilenet model that was trained on imagenet I retrained the last layer of the convolutional neural net on images I web scraped from your asset store using a technique called transferred learning.  This allowed me to leverage all the heavy lifting that went into recognizing real life objects and refine it to recognize the nuances that are present the 3D assets equivalents of those objects.
 The result is a very fast and light weight 3d asset recognizer, that is lightweight to scale and quick to retrain.
-Easily achieve 400+ images per sec per instance or lightweight enough to auto-scale in the cloud
+It could easily achieve 400+ images per sec per instance or lightweight enough to auto-scale in the cloud
 
 this demo is in the **tagging** folder
 
