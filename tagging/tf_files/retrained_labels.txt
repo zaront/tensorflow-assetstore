@@ -1,0 +1,7 @@
+air
+animals
+cars
+electronics
+guns
+robots
+sea
